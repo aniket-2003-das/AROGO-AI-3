@@ -1,7 +1,5 @@
 # Self-Analysis Mental Health Prediction Model
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Mental+Health+Prediction+System)
-
 A machine learning system that predicts 17 mental health conditions based on user-reported symptoms, with model interpretability and a Streamlit UI.
 
 ## Table of Contents
